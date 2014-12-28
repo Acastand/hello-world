@@ -1,4 +1,5 @@
 hello-world
 ===========
+<i>My first post.<i>
 
-My first post.
+Hello everyone! I'm Acastand, but most people know me as sevenstars :-) 
